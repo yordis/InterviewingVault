@@ -29,6 +29,7 @@ List of organizations Yordis Prieto is part of:
 List of libraries Yordis Prieto has contributed to:
 
 - [Tesla](https://github.com/elixir-tesla/tesla)
+- [Oban](https://github.com/sorentwo/oban)
 - [Ecto](https://github.com/elixir-ecto/ecto)
 - [Guardian](https://github.com/ueberauth/guardian)
 - [Guardian.DB](https://github.com/ueberauth/guardian_db)

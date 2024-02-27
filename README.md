@@ -46,6 +46,7 @@ List of libraries Yordis Prieto has contributed to:
 - [OpentelemetryFinch](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_finch)
 - [OpentelemetryRedix](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_redix)
 - [Credo](https://github.com/rrrene/credo)
+- [Vaultex](https://github.com/findmypast/vaultex)
 - [OnePiece.Result](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_result)
 - [OnePiece.Commanded](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_commanded)
 - [OnePiece.GracefulShutdown](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_graceful_shutdown)

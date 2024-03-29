@@ -13,9 +13,7 @@ least millions of closed-source codes that I am not able to share. As well as
 many other discussions, code reviews, and other contributions that are not
 tracked in this repository.
 
-## Elixir
-
-### Organizations
+## Organizations
 
 List of organizations Yordis Prieto is part of:
 
@@ -24,9 +22,12 @@ List of organizations Yordis Prieto is part of:
 - [Ueberauth](https://github.com/ueberauth)
 - [Slime Lang](https://github.com/slime-lang)
 
-### Libraries
+## Libraries and Frameworks
 
 List of libraries Yordis Prieto has contributed to:
+
+- [Sentry JavaScript](https://github.com/getsentry/sentry-javascript)
+- [wasmCloud](https://github.com/wasmCloud/wasmCloud)
 
 - [Tesla](https://github.com/elixir-tesla/tesla)
 - [Oban](https://github.com/sorentwo/oban)
@@ -39,17 +40,17 @@ List of libraries Yordis Prieto has contributed to:
 - [Commanded.Projections.Ecto](https://github.com/commanded/commanded-ecto-projections)
 - [Spear](https://github.com/NFIBrokerage/spear)
 - [Absinthe.Plug](https://github.com/absinthe-graphql/absinthe_plug)
-- [OpenTelemetryTesla](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_tesla)
-- [OpentelemetryPhoenix](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_phoenix)
-- [OpentelemetryOban](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_oban)
-- [OpentelemetryEcto](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_ecto)
-- [OpentelemetryFinch](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_finch)
-- [OpentelemetryRedix](https://github.com/open-telemetry/opentelemetry-erlang-contrib/tree/main/instrumentation/opentelemetry_redix)
+- [OpenTelemetryTesla](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+- [OpentelemetryPhoenix](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+- [OpentelemetryOban](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+- [OpentelemetryEcto](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+- [OpentelemetryFinch](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
+- [OpentelemetryRedix](https://github.com/open-telemetry/opentelemetry-erlang-contrib)
 - [Credo](https://github.com/rrrene/credo)
 - [Vaultex](https://github.com/findmypast/vaultex)
-- [OnePiece.Result](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_result)
-- [OnePiece.Commanded](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_commanded)
-- [OnePiece.GracefulShutdown](https://github.com/straw-hat-team/beam-monorepo/tree/master/apps/one_piece_graceful_shutdown)
+- [OnePiece.Result](https://github.com/straw-hat-team/beam-monorepo)
+- [OnePiece.Commanded](https://github.com/straw-hat-team/beam-monorepo)
+- [OnePiece.GracefulShutdown](https://github.com/straw-hat-team/beam-monorepo)
 - [StrawHat.Twitch Library](https://github.com/straw-hat-labs/straw_hat_twitch)
 - [Bittrex Client](https://github.com/straw-hat-labs/bittrex)
 - [Okta Client](https://github.com/stueccles/okta-elixir)
